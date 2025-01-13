@@ -1,6 +1,5 @@
-#This is a single line comment
-print("single line comment")
-"""This is a 
-                multiline line comment  
-                """
-print("Multiline comment")
+#this is a comment
+print("Hello boy") #this is a comment also
+"""
+This is a multiline comment brother 
+"""

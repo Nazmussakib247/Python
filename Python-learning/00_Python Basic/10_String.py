@@ -50,5 +50,3 @@ print("Python" not in a)
 #Usinging If Not statement
 if 'Python' not in a:
     print("Not found")
-
-

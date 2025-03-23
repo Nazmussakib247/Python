@@ -66,5 +66,3 @@ def anotherfunction():
 anotherfunction()
 print(w)
 #Changing value of a global variable inside a function 
-
-

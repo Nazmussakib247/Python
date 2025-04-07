@@ -25,7 +25,7 @@ While this repository is primarily for my personal learning journey, constructiv
 
 ## License
 
-This repository is licensed under the [Specify Your License Here, e.g., MIT License](LICENSE).
+This repository is licensed under the MIT License (LICENSE).
 
 ## Author
 
